@@ -1,0 +1,6 @@
+/Users/viktor/RiderProjects/TripCards/TripCards/obj/Debug/.NETFramework,Version=v4.6.2.AssemblyAttribute.cs
+/Users/viktor/RiderProjects/TripCards/TripCards/bin/Debug/TripCards.pdb
+/Users/viktor/RiderProjects/TripCards/TripCards/bin/Debug/TripCards.exe
+/Users/viktor/RiderProjects/TripCards/TripCards/obj/Debug/TripCards.exe
+/Users/viktor/RiderProjects/TripCards/TripCards/obj/Debug/TripCards.pdb
+/Users/viktor/RiderProjects/TripCards/TripCards/bin/Debug/nunit.framework.dll
